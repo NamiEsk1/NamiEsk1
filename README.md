@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nami Eskandarian!
 - 👀 I’m interested in software.
-- 🌱 I’m currently learning computer engineering.
 - 📫 You can reach me with my email namieskandarian201@gmail.com or on instagram @namieskandarian
 
 <!---
